@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.photo{
+	width:100px;
+}
+h1{
+	text-align:center;
+}
+.profile{
+	text-align:center;
+}
+#skills{
+	text-align:center;
+}
+#projects{
+	text-align:center;
+}
